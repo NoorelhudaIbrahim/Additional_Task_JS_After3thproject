@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ 
+body{
+    background-image: url(https://www.pptgrounds.com/wp-content/uploads/2017/02/Airy-Restaurant-Backgrounds-800x600.jpg);
+    background-size: cover;
+}
+
+.anckor{
+    margin-top: 23%;
+    
+}
+
+
+.f{
+    text-decoration: none;
+    background: linear-gradient(bisque,brown);
+    padding: 2%;
+    margin-left: 25%;
+    margin-right:5%;
+    color:brown;
+    border-radius: 10%;
+}
+
+.s{
+
+    text-decoration: none;
+    background: linear-gradient(bisque,brown);
+    padding: 2%;
+    margin-left: 80%;
+    /* margin-right:5%; */
+    color:brown;
+    border-radius: 10%;
+}
+
+.f:hover {
+    transform: scale(1.1);
+}
+
+.s:hover {
+    transform: scale(1.1);
+}
+
